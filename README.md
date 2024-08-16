@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan Feys</h1>
-<h3 align="center">A passionate junior frontend developer from Belgium, soon a fullstack web developer !</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F78366&size=25&width=600&height=100&lines=A+Passionate+developer+from+Belgium+%F0%9F%87%AE%F0%9F%87%B3;JS%2CPHP%2CSCSS%2CREACT%2C">
+</p> 
 
 - 🌱 I’m currently learning **React and NodeJs**
 
